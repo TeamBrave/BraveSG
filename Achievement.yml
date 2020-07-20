@@ -14,11 +14,11 @@ Achievements:
         - ''
         Contents:
             '1':
-                Name: 'Güçlü'
+                Name: 'Strong'
                 Reward: 50
                 Lore:
                 - ''
-                - '&7 Elmas kılıç oluştur.'
+                - '&7 Craft a diamond sword.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -29,62 +29,62 @@ Achievements:
                 Reward: 100
                 Lore:
                 - ''
-                - '&7 Ateşle bir yeri yak.'
+                - '&7 Burn a place with fire.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '3':
-                Name: 'Durdurulamaz'
+                Name: 'Unstoppable'
                 Reward: 500
                 Lore:
                 - ''
-                - '&7 15 saniye içerisinde 5 haraç öldür.'
+                - '&7 Kill 5 tributes in 15 seconds.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '4':
-                Name: 'Kaptan'
+                Name: 'Captain'
                 Reward: 100
                 Lore:
                 - ''
-                - '&7 Tekne kullan.'
+                - '&7 Use a boat.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '5':
-                Name: 'Profesyonel'
+                Name: 'Professional'
                 Reward: 800
                 Lore:
                 - ''
-                - '&7 Tek oyunda 10 haraç öldür.'
+                - '&7 Kill 10 tributes in one game.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '6':
-                Name: 'Çiftçi'
+                Name: 'Farmer'
                 Reward: 800
                 Lore:
                 - ''
-                - '&7 Elmas çapa oluştur.'
+                - '&7 Craft diamond hoe.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '7':
-                Name: 'Sandıksız'
+                Name: 'No Chests'
                 Reward: 1000
                 Lore:
                 - ''
-                - '&7 Sandık açmadan oyun kazan.'
+                - '&7 Win a game without opening a chest.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -95,84 +95,84 @@ Achievements:
                 Reward: 500
                 Lore:
                 - ''
-                - '&7 Birini öldürmeden oyunu kazan.'
+                - '&7 Win the game without killing someone.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '9':
-                Name: 'Aşçı'
+                Name: 'Chef'
                 Reward: 200
                 Lore:
                 - ''
-                - '&7 Altın elma oluştur.'
+                - '&7 Craft a golden apple.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '10':
-                Name: 'Tam Destek'
+                Name: 'Full Support'
                 Reward: 100
                 Lore:
                 - ''
-                - '&7 Tek oyunda 3 farklı oyuncuya sponsorluk yap.'
+                - '&7 Sponsor 3 different players in one game.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '11':
-                Name: 'Güçlü Zırh'
+                Name: 'Strong Armor'
                 Reward: 200
                 Lore:
                 - ''
-                - '&7 Tamamen demir zırh ol.'
+                - '&7 Become a fully iron armor.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '12':
-                Name: 'Dost Desteği'
+                Name: 'Friendly Support'
                 Reward: 100
                 Lore:
                 - ''
-                - '&7 Aynı oyuncuya 3 kere sponsor yap.'
+                - '&7 Sponsor the same player 3 times.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '13':
-                Name: 'Hasarsız'
+                Name: 'Undamaged'
                 Reward: 1000
                 Lore:
                 - ''
-                - '&7 Hasar almadan oyun kazan0.'
+                - '&7 Win games without damage.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '14':
-                Name: 'Ilk Kan'
+                Name: 'First Blood'
                 Reward: 50
                 Lore:
                 - ''
-                - '&7 Oyunda ilk oyuncuyu sen öldür.'
+                - '&7 Kill the first player in the game.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
                 - ''
                 - '{Status}'
             '15':
-                Name: 'Iskelet'
+                Name: 'Skeleton'
                 Reward: 50
                 Lore:
                 - ''
-                - '&7 Ok oluştur.'
+                - '&7 Craft an arrow.'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -199,9 +199,9 @@ Achievements:
                 Required: 24
                 Lore:
                 - ''
-                - '&7 24 Haraç öldür.'
+                - '&7 Kill 24 tributes.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -212,9 +212,9 @@ Achievements:
                 Required: 250
                 Lore:
                 - ''
-                - '&7 250 Haraç öldür.'
+                - '&7 Kill 250 tributes.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -225,9 +225,9 @@ Achievements:
                 Required: 600
                 Lore:
                 - ''
-                - '&7 600 Haraç öldür.'
+                - '&7 Kill 600 tributes.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -238,9 +238,9 @@ Achievements:
                 Required: 1200
                 Lore:
                 - ''
-                - '&7 1200 Haraç öldür.'
+                - '&7 Kill 1200 tributes.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -251,9 +251,9 @@ Achievements:
                 Required: 2500
                 Lore:
                 - ''
-                - '&7 2500 Haraç öldür.'
+                - '&7 Kill 2500 tributes.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -264,9 +264,9 @@ Achievements:
                 Required: 50
                 Lore:
                 - ''
-                - '&7 50 sandık aç.'
+                - '&7 Open 50 chests.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -277,9 +277,9 @@ Achievements:
                 Required: 250
                 Lore:
                 - ''
-                - '&7 250 sandık aç.'
+                - '&7 Open 250 chests.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -290,9 +290,9 @@ Achievements:
                 Required: 500
                 Lore:
                 - ''
-                - '&7 500 sandık aç.'
+                - '&7 Open 500 chests.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -303,9 +303,9 @@ Achievements:
                 Required: 1500
                 Lore:
                 - ''
-                - '&7 1500 sandık aç.'
+                - '&7 Open 1500 chests.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
@@ -316,74 +316,74 @@ Achievements:
                 Required: 3000
                 Lore:
                 - ''
-                - '&7 3000 sandık aç.'
+                - '&7 Open 3000 chests.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
             '11':
-                Name: 'Şampiyon I'
+                Name: 'Champion I'
                 Reward: 500
                 Slot: 39
                 Required: 15
                 Lore:
                 - ''
-                - '&7 15 kez oyunu kazan.'
+                - '&7 Win the game 15 times.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
             '12':
-                Name: 'Şampiyon II'
+                Name: 'Champion II'
                 Reward: 1800
                 Slot: 30
                 Required: 100
                 Lore:
                 - ''
-                - '&7 100 kez oyunu kazan.'
+                - '&7 Win the game 100 times.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
             '13':
-                Name: 'Şampiyon III'
+                Name: 'Champion III'
                 Reward: 2000
                 Slot: 21
                 Required: 250
                 Lore:
                 - ''
-                - '&7 250 kez oyunu kazan.'
+                - '&7 Win the game 250 times.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
             '14':
-                Name: 'Şampiyon IV'
+                Name: 'Champion IV'
                 Reward: 3000
                 Slot: 12
                 Required: 550
                 Lore:
                 - ''
-                - '&7 550 kez oyunu kazan.'
+                - '&7 Win the game 550 times.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'
             '15':
-                Name: 'Şampiyon V'
+                Name: 'Champion V'
                 Reward: 6000
                 Slot: 3
                 Required: 1000
                 Lore:
                 - ''
-                - '&7 1000 kez oyunu kazan.'
+                - '&7 Win the game 1000 times.'
                 - ''
-                - '&7 Durum: {Status}'
+                - '&7 Status: {Status}'
                 - ''
                 - '&7 Rewards:'
                 - '&6 + &e{Reward} &6Coin'

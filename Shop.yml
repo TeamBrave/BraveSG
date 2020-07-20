@@ -15,7 +15,7 @@ Shop:
         - ''
         Contents:
             '1':
-                Name: 'Özel Fişekler'
+                Name: 'Special Fireworks'
                 Price: 10000
                 Quality: 'Rare'
                 Lore:
@@ -24,7 +24,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '2':
-                Name: 'Ateş Yağmuru'
+                Name: 'Fire Rain'
                 Price: 80000
                 Quality: 'Epic'
                 Lore:
@@ -33,7 +33,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '3':
-                Name: 'Uçan Kafalar'
+                Name: 'Flying Heads'
                 Price: 50000
                 Quality: 'Epic'
                 Lore:
@@ -42,7 +42,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '4':
-                Name: 'Gardiyanlar'
+                Name: 'Guards'
                 Price: 50000
                 Quality: 'Epic'
                 Lore:
@@ -51,7 +51,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '5':
-                Name: 'Örs Yağmuru'
+                Name: 'Anvil Rain'
                 Price: 50000
                 Quality: 'Epic'
                 Lore:
@@ -60,7 +60,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '6':
-                Name: 'Wither Bineği'
+                Name: 'Wither Mount'
                 Price: 150000
                 Quality: 'Legendary'
                 Lore:
@@ -69,7 +69,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '7':
-                Name: 'Tabut Dansı'
+                Name: 'Coffin Dance'
                 Price: 200000
                 Quality: 'Legendary'
                 Lore:
@@ -96,7 +96,7 @@ Shop:
                 - ''
                 - '&7 Quality: &b{Quality}'
             '10':
-                Name: 'Ejderha Bineği'
+                Name: 'Dragon Mount'
                 Price: 300000
                 Quality: 'Legendary'
                 Lore:
@@ -119,7 +119,7 @@ Shop:
         - ''
         Contents:
             '1':
-                Name: 'Açım!'
+                Name: 'I''m hungry!'
                 Price: 8000
                 Quality: 'Rare'
                 Message: '&b{Player} &7yine aç kaldı!'

@@ -210,7 +210,6 @@ Items:
         Slot: 0
         Lore:
         - ''
-        - '&ePlayer'
     Profile:
         Name: '&8&l「&eProfile&8&l」'
         Item: custom player head
@@ -219,9 +218,6 @@ Items:
         Slot: 7
         Lore:
         - ''
-        - '&fPlayer'
-        - ''
-        - '&cs'
     ArenaLeave:
         Name: '&8&l「&eLeave&8&l」'
         Item: magma cream
@@ -447,7 +443,7 @@ Titles:
         FadeOut: 20
     Win:
         Title: '{Player} WON!'
-        Subtitle: '&asubtitle'
+        Subtitle: ''
         Duration: 20
         FadeIn: 20
         FadeOut: 20

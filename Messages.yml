@@ -485,21 +485,6 @@ Scoreboard:
             - ''
             - '&ewww.bravesg.com'
 
-Arena-Status:
-    Waiting: '&aMin sayıya ulaşması bekleniyor'
-    Starting: '&aOylanıyor'
-    PreGame: '&aPreGame'
-    InGame: '&aLiveGame'
-    PreDeathMatch: '&aPreDeathmatch'
-    DeathMatch: '&aDeathmatch'
-    Restarting: '&aEndGame'
-
-Player-State:
-    Lobby: '&aLobby'
-    Waiting: '&aWaiting'
-    InGame: '&aStarting'
-    Spectator: '&aPreGame'
-
 NPC:
     Solo:
         Name:
@@ -523,20 +508,3 @@ NPC:
         - '&fTotal Wins: &a{Wins}'
         - '&fFavorite Map: &a{FavoriteMap}'
         - '&e&lCLICK FOR STATS'
-
-Profile:
-    Menu:
-        Title: '&8&l» &7Profile'
-        Background: black glass pane
-    Stats:
-        Name: '&8&l➩ &7Your Stats'
-        Item: book
-        Slot: 22
-        Lore:
-        - ''
-        - '&8&l➩ &aWins &e{wins}'
-        - '&8&l➩ &aKills &e{kills}'
-        - '&8&l➩ &aDeaths &e{deaths}'
-        - '&8&l➩ &aCoins &e{coins}'
-        - '&8&l➩ &aLooted Chests &e{chests}'
-        - ''
